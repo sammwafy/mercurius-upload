@@ -1,7 +1,7 @@
 import * as util from 'util'
 import stream from 'stream'
 import fp from 'fastify-plugin'
-import { processRequest, UploadOptions } from 'graphql-upload-minimal'
+import { processRequest, UploadOptions } from 'graphql-upload-ts'
 
 const finishedStream = util.promisify(stream.finished)
 

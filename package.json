@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "fastify-plugin": "^4.2.0",
-    "graphql-upload-minimal": "^1.5.5"
+    "graphql-upload-ts": "^2.1.2"
   },
   "devDependencies": {
     "@types/node": "^20.5.0",
